@@ -25,6 +25,8 @@ cd Image_Delphi
 npm install
 npm run dev
 
+---
+
 ## 🔑 How to Get Your Google AI Studio API Key
 
 To use this application, you need a Google AI Studio API key. Follow the steps below:
@@ -46,6 +48,6 @@ To use this application, you need a Google AI Studio API key. Follow the steps b
 
 5. **Restart the Development Server**  
 
-
+---
 
 
