@@ -16,6 +16,25 @@ This is a full-stack AI-powered image analysis app where users can upload images
 
 ---
 
+## 🔑 How to Get Your Google AI Studio API Key
+
+To use this application, you need a Google AI Studio API key. Follow the steps below:
+   
+   - Visit Google AI Studio 👉 https://makersuite.google.com/app
+
+   - Sign in with your Google Account
+
+   - Use your personal or developer Google account to log in.
+
+   - Generate an API Key
+
+   - Click on your profile icon in the top-right corner.
+
+   - Select "API Keys" from the dropdown.
+
+   - Click "Create API Key".
+
+   - Copy the generated API key.
 
 ## 🛠️ Installation
 
@@ -24,30 +43,3 @@ git clone https://github.com/Shavva-Satya196/Image_Delphi.git
 cd Image_Delphi
 npm install
 npm run dev
-
----
-
-## 🔑 How to Get Your Google AI Studio API Key
-
-To use this application, you need a Google AI Studio API key. Follow the steps below:
-
-1. **Visit Google AI Studio**  
-   Open your browser and go to:  
-   👉 [https://makersuite.google.com/app](https://makersuite.google.com/app)
-
-2. **Sign in with your Google Account**  
-   Use your personal or developer Google account to log in.
-
-3. **Generate an API Key**  
-   - Click on your **profile icon** (top right corner).
-   - Select **"API Keys"** from the dropdown.
-   - Click **"Create API Key"**.
-   - Copy the generated API key.
-
-4. **Add the API Key to the Project**  
-
-5. **Restart the Development Server**  
-
----
-
-
