@@ -20,6 +20,6 @@ This is a full-stack AI-powered image analysis app where users can upload images
 
 ```bash
 git clone 
-cd vision-scribe-webapp-main
+cd Image_Delphi
 npm install
 npm run dev
